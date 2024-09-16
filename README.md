@@ -13,11 +13,22 @@ pip install chainlit
     4  clear
     
     5  bash init_setup.sh
+
     6  source activate ./venv
+
     7  clear
+
     8  pip list
+
     9  clear
+
    10  touch .gitignore
+
    11  history
 
+
 chainlit hello
+
+
+# how to run setup.py
+python setup.py install
