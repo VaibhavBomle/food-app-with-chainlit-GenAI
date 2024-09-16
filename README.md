@@ -22,9 +22,9 @@ pip install chainlit
 
     9  clear
 
-   10  touch .gitignore
+    10  touch .gitignore
 
-   11  history
+    11  history
 
 
 # How to test chainlit just type below command in terminal
