@@ -27,7 +27,12 @@ pip install chainlit
    11  history
 
 
+# How to test chainlit just type below command in terminal
 chainlit hello
+
+
+# how to run chainlit 
+chainlit run app.py
 
 
 # how to run setup.py
